@@ -11,20 +11,20 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
 spring:
-  profiles: subject
+  profiles:subject
 words: I,You,He,She,It
 
 ---
 spring:
-  profiles: verb
+  profiles:verb
 words: ran,knew,had,saw,bought
 
 ---
 spring:
-  profiles: article
+  profiles:article
 words: a,the
 
 ---
 spring:
-  profiles: noun
+  profiles:noun
 words: boat,book,vote,seat,backpack,partition,groundhog
