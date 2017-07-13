@@ -8,3 +8,8 @@ eureka:
 spring:
   profiles: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: subject
+words: I,You,He,She,It
