@@ -29,4 +29,4 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: boat,book,vote,seat,backpack,partition,groundhog,tiger,lion
