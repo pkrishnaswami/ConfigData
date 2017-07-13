@@ -27,5 +27,5 @@ words: boat,book,vote,seat,backpack,partition,groundhog
 
 ---
 spring:
-  profiles: lab-4-adjective
+  profiles: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
