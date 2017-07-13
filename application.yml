@@ -6,7 +6,7 @@ eureka:
  
 ---
 spring:
-  profiles:adjective
+  profiles: adjective
 words: reasonable,leaky,suspicious,ordinary,unlikely
 
 ---
