@@ -24,7 +24,7 @@ words: ran,knew,had,saw,bought
 #  profiles:article
 #words: a,the
 
-#---
-#spring:
-#  profiles:noun
-#words: boat,book,vote,seat,backpack,partition,groundhog
+---
+spring:
+  profiles:noun
+words: boat,book,vote,seat,backpack,partition,groundhog
