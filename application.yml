@@ -22,10 +22,10 @@ words: a,the
 
 ---
 spring:
-  profiles:noun
+  profiles:adjective
 words: boat,book,vote,seat,backpack,partition,groundhog,tiger,lion
 
 ---
 spring:
-  profiles: adjective
+  profiles: noun
 words: reasonable,leaky,suspicious,ordinary,unlikely
